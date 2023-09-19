@@ -1,0 +1,33 @@
+{
+  "name": "string-sharper",
+  "version": "1.0.0",
+  "description": "The ultimate string manipulation library",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspanchal/string-sharper.git"
+  },
+  "keywords": [
+    "string",
+    "utility"
+  ],
+  "author": {
+    "name": "Jayesh Panchal",
+    "email": "jspanchal@ymail.com",
+    "url": "https://github.com/jspanchal"
+  },
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jspanchal/string-sharper/issues",
+    "email": "jspanchal@ymail.com"
+  },
+  "homepage": "https://github.com/jspanchal/string-sharper#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
+  }
+}
