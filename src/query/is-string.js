@@ -1,5 +1,5 @@
 /**
- * Return whether `value` is of type `string`
+ * Checks whether `value` is of type `string` or not
  * @param value
  * @returns {boolean}
  */
